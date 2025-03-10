@@ -1,0 +1,42 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+a:link, a:visited {color: orange;
+	text-decoration: none}
+
+ul { 
+	list-style-type: square; 
+}
+
+body {
+  background-color: white; color: black; text-decoration: none;
+  background-image: url(Mordecai.png);
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  background-position: 1250px 1900px;
+}
+
+h1, h2, h3 { font-family: "Courier New", Times, serif; }
+
+h1 { font-size: 40px; 
+}
+
+h2 { font-size: 30px; 
+	text-align: center; 
+	font-weight: bold;
+}
+
+h3 { font-size: 25px; 
+	text-align: center; 
+}
+
+img { width: 150px;  }
+
+
+#header, #lblock, #rblock, #footer { background-color: beige; }
+
+#header { margin-top: 50px; }
+
+#footer { margin-bottom: 50px }
+
+
+.border { border: 4px dashed black; } 
